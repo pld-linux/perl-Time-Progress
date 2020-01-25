@@ -4,7 +4,6 @@
 
 %define		pdir	Time
 %define		pnam	Progress
-%include	/usr/lib/rpm/macros.perl
 Summary:	Time::Progress - Elapsed and estimated finish time reporting
 Summary(pl.UTF-8):	Time::Progress - informowanie o minionym i oczekiwanym czasie zakończenia operacji
 Name:		perl-Time-Progress
