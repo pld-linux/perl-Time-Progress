@@ -7,12 +7,12 @@
 Summary:	Time::Progress - Elapsed and estimated finish time reporting
 Summary(pl.UTF-8):	Time::Progress - informowanie o minionym i oczekiwanym czasie zakończenia operacji
 Name:		perl-Time-Progress
-Version:	1.7
-Release:	2
+Version:	2.15
+Release:	1
 License:	GPL v2
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Time/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	83471e25b5b243be3ffa4e71387b020c
+Source0:	https://www.cpan.org/authors/id/C/CA/CADE/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	b1eff6e29cb79b78d300a38e70f9da64
 URL:		http://search.cpan.org/dist/Time-Progress/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
